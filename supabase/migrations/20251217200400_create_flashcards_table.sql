@@ -98,3 +98,5 @@ create trigger set_updated_at
   for each row
   execute function public.handle_updated_at();
 
+
+

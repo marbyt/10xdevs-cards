@@ -65,3 +65,5 @@ drop policy if exists "insert_own_error_logs_anon" on public.generation_error_lo
 -- 1. Disable RLS entirely with: ALTER TABLE table_name DISABLE ROW LEVEL SECURITY;
 -- 2. Create permissive policies that allow access
 
+
+

@@ -58,3 +58,5 @@ create policy "insert_own_error_logs_anon"
 -- rationale: this is an append-only log table for audit purposes
 -- errors should not be modified or deleted by users
 
+
+
